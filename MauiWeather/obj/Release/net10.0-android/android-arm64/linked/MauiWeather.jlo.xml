@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64e5ebb1f2d7d0fa2a" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="MauiWeather.MainActivity, MauiWeather">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64e5ebb1f2d7d0fa2a" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="MauiWeather.MainApplication, MauiWeather" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="MauiWeather" module-name="MauiWeather.dll">
+    <type assembly-qualified-name="MauiWeather.MainActivity, MauiWeather, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauiweather.MainActivity" java-key="crc64e5ebb1f2d7d0fa2a.MainActivity" managed-key="MauiWeather.MainActivity" partial-assembly-qualified-name="MauiWeather.MainActivity, MauiWeather" />
+    <type assembly-qualified-name="MauiWeather.MainApplication, MauiWeather, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauiweather.MainApplication" java-key="crc64e5ebb1f2d7d0fa2a.MainApplication" managed-key="MauiWeather.MainApplication" partial-assembly-qualified-name="MauiWeather.MainApplication, MauiWeather" />
+  </acw-types>
+</api>

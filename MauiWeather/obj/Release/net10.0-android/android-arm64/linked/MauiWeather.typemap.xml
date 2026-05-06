@@ -1,0 +1,8 @@
+<api type="release" assembly-name="MauiWeather" mvid="a511a254e4e746c1a3e7a47803b710e4">
+  <module assembly-name="MauiWeather" mvid="a511a254e4e746c1a3e7a47803b710e4" mvid-bytes="VKIRpefkwUaj56R4A7cQ5A==">
+    <types-scratch>
+      <entry key="crc64e5ebb1f2d7d0fa2a/MainActivity" java-name="crc64e5ebb1f2d7d0fa2a/MainActivity" managed-type-name="MauiWeather.MainActivity" token="33554443" />
+      <entry key="crc64e5ebb1f2d7d0fa2a/MainApplication" java-name="crc64e5ebb1f2d7d0fa2a/MainApplication" managed-type-name="MauiWeather.MainApplication" token="33554444" />
+    </types-scratch>
+  </module>
+</api>
